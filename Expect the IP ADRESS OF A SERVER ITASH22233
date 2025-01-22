@@ -1,0 +1,23 @@
+System:
+    OS: macOS 14.6.1
+    CPU: (10) arm64 Apple M1 Pro
+    Memory: 348.30 MB / 32.00 GB
+    Shell: 5.9 - /bin/zsh
+  Binaries:
+    Node: 23.5.0 - /opt/homebrew/bin/node
+    Yarn: 1.22.17 - /usr/local/bin/yarn
+    npm: 10.9.2 - /opt/homebrew/bin/npm
+    pnpm: 8.6.6 - /opt/homebrew/bin/pnpm
+    bun: 1.1.16 - ~/.bun/bin/bun
+  Browsers:
+    Brave Browser: 121.1.62.165
+    Chrome: 131.0.6778.265
+    Edge: 131.0.2903.147
+    Safari: 17.6
+  npmPackages:
+    @remix-run/dev: ^2.15.2 => 2.15.2 
+    @remix-run/node: ^2.15.2 => 2.15.2 
+    @remix-run/react: ^2.15.2 => 2.15.2 
+    @remix-run/serve: ^2.15.2 => 2.15.2 
+    vite: ^5.1.0 => 5.4.11
+vite 12EE1 server Manager 22233 ITACH
